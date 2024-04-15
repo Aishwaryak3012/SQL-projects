@@ -1,1 +1,1 @@
-# sql_assignment
+# sql_projects
