@@ -1,11 +1,11 @@
 # sql_projects
 1) Sales Analysis:
    This SQL project analyzes sales data to extract insights for strategic decisions, covering metrics like total sales and profit, as well as trends in sales distribution.
-   -Identify any trends or patterns in delayed shipments
-   -Identify the top 10 best-selling products by quantity
-    and sales
-   -Investigate the relationship between discounts and
-    profit.
+   - Identify any trends or patterns in delayed shipments
+   - Identify the top 10 best-selling products by quantity
+     and sales
+   - Investigate the relationship between discounts and
+     profit.
 
 2)Customer segmentation:
   This SQL-driven customer segmentation project explores diverse aspects of an e-commerce dataset, including demographics, purchasing behavior, and satisfaction levels. total customer count, popular           
